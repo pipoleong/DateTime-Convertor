@@ -1,0 +1,18 @@
+{
+  "name": "pipoleong/date-time-convertor",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "DateConvertor": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pipo leong",
+      "email": "leongpipo2000@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2|8.*"
+  }
+}
